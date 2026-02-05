@@ -8,7 +8,7 @@ This project visualizes yearly sales performance (2022–2024) using interactive
 
 ## 🚀 Live Demo
 
-🔗 [https://your-project-name.vercel.app  ](https://springer-assignment-one.vercel.app/)
+🔗https://springer-assignment-one.vercel.app/ (https://springer-assignment-one.vercel.app/)
 *(Replace with your Vercel URL after deployment)*
 
 ---
