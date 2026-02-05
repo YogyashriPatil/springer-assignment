@@ -8,9 +8,7 @@ This project visualizes yearly sales performance (2022–2024) using interactive
 
 ## 🚀 Live Demo
 
-🔗https://springer-assignment-one.vercel.app/ (https://springer-assignment-one.vercel.app/)
-*(Replace with your Vercel URL after deployment)*
-
+🔗 https://springer-assignment-one.vercel.app/ 
 ---
 
 ## 🧠 Project Overview
@@ -123,7 +121,7 @@ The application processes product prices and groups them into yearly sales total
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone [https://github.com/yourusername/sales-dashboar](https://github.com/YogyashriPatil/springer-assignment.git)
+git clone https://github.com/YogyashriPatil/springer-assignment.git
 cd sales-dashboard
 ```
 
